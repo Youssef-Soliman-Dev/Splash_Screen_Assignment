@@ -1,6 +1,7 @@
 # flutter_app
 
 A new Flutter project.
+For Assignment 2 
 
 ## Getting Started
 
